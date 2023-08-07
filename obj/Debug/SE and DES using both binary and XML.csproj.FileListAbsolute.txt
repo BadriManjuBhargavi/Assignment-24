@@ -1,0 +1,11 @@
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\bin\Debug\SE and DES using both binary and XML.exe.config
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\bin\Debug\SE and DES using both binary and XML.exe
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\bin\Debug\SE and DES using both binary and XML.pdb
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\bin\Debug\Assignment=24.dll
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\bin\Debug\Assignment=24.pdb
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\obj\Debug\SE and DES using both binary and XML.csproj.AssemblyReference.cache
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\obj\Debug\SE and DES using both binary and XML.csproj.SuggestedBindingRedirects.cache
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\obj\Debug\SE and DES using both binary and XML.csproj.CoreCompileInputs.cache
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\obj\Debug\SE and DES using both binary and XML.csproj.CopyComplete
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\obj\Debug\SE and DES using both binary and XML.exe
+C:\DAY 21\SE and DES using both binary and XML\SE and DES using both binary and XML\obj\Debug\SE and DES using both binary and XML.pdb
